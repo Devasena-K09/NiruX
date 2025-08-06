@@ -1,36 +1,42 @@
-<h1 align="center">Hi, I'm Devasena 👋</h1>
+# 🌌 NiruX – AI for Entrepreneurs
 
-<p align="center">
-  💻 Developer | 🎮 Gamer | 🧠 AI Explorer | 🔮 Visionary Founder  
-  <br>
-  🔥 Founder of <b>TitanChatX</b> | 🌌 Building <b>NiruX AI</b> | ⚡ Future CEO @ Novolixiara  
-</p>
+NiruX is your all-in-one AI-powered innovation platform designed to empower young entrepreneurs to build, ideate, and scale rapidly.
 
----
+## 💡 What is NiruX?
 
-### 🚀 Projects I'm working on
-- 🕹️ **TitanChatX**: Chat + Battle Royale Game App (Android)
-- 🧠 **NiruX AI**: A spiritual AI Guardian for humanity
-- 🏢 **Novolixiara**: Startup for jobs, apps & real change
+NiruX brings together intelligent AI agents who:
+- Generate wireframes & UI mockups
+- Suggest startup project ideas
+- Build MVP plans & solutions
+- Help with market research
 
----
+## 🧠 How It Works
 
-### 🌱 Currently Learning
-- Full Stack App Development
-- AI Prompt Engineering
-- SQL + NoSQL + Firebase
+👤 **Users collaborate with Devasena (creator) to unlock premium AI Agents**  
+💬 AI Agents work across business, design, development, and strategy.
 
----
+## 📂 Project Structure
 
-### 📫 Let's Connect
-- Email: devasenak9203@gmail.com
-- LinkedIn: [(https://wwwnt=profile&utm_medium=android_app)](https://www.linkedin.com/in/devasena-k-40b65730a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+| Folder               | Purpose                                                  |
+|----------------------|----------------------------------------------------------|
+| `website/`           | NiruX teaser/landing site (hosted via GitHub Pages)     |
+| `ai-agents/`         | Configs for intelligent agents (names, specialties)     |
+| `wireframes/`        | Figma exports, app mockups, UI sketches                 |
+| `business-solutions/`| Real-world problem + solution sets                      |
+| `collaborations/`    | Pricing, plans, contact to access full NiruX features   |
+| `assets/`            | Visuals, screenshots, logo etc.                         |
 
----
+## 🧪 Features
 
-### 💎 Quote I Live By
-> "I don’t just write code. I write destiny." 🔥
+- 🤖 Custom AI agents for design, dev, and business
+- 💼 Real-world use cases for startups
+- 💸 Paid collaboration model
+- 🌐 GitHub Pages site included
 
-<p align="center">
-  🌟 Thank you for visiting! 🌟  
-</p>
+## 🌐 Live Site
+
+🔗 [Coming Soon](https://devasena-k09.github.io/NiruX/)
+
+## ✨ Built By
+
+Made with heart by [@Devasena-K09](https://github.com/Devasena-K09) 💜
