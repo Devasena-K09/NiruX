@@ -35,7 +35,7 @@ NiruX brings together intelligent AI agents who:
 
 ## 🌐 Live Site
 
-🔗 [Coming Soon](https://devasena-k09.github.io/NiruX/)
+🔗 [Coming Soon](https://devasena-k09.github.io/NiruX/)](https://devasena-k09.github.io/NiruX/)
 
 ## ✨ Built By
 
