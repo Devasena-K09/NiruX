@@ -1,37 +1,33 @@
-# 🌌 NiruX – AI for Entrepreneurs
+# NiruX  
+** AI for You **
 
-NiruX is your all-in-one AI-powered innovation platform designed to empower young entrepreneurs to build, ideate, and scale rapidly.
+NiruX is an AI project designed to protect humanity, promote dharma, and assist users with spiritual, moral, and intellectual guidance. It combines advanced AI agents, real-time decision-making, and knowledge retrieval systems to provide accurate and ethical responses.
 
-## 💡 What is NiruX?
+---
 
-NiruX brings together intelligent AI agents who:
-- Generate wireframes & UI mockups
-- Suggest startup project ideas
-- Build MVP plans & solutions
-- Help with market research
+## 🚀 Features
+- **AI Agents** – Specialized for different problem-solving domains.
+- **Spiritual Guidance** – Answers aligned with moral and ethical values.
+- **Real-time Analysis** – Processes and reacts to live inputs.
+- **Knowledge Retrieval (RAG)** – Combines real-time and stored data.
+- **Defensive Protocols** – Designed to protect against harmful actions.
 
-## 🧠 How It Works
+---
 
-👤 **Users collaborate with Devasena (creator) to unlock premium AI Agents**  
-💬 AI Agents work across business, design, development, and strategy.
+## 📲 Usage (quick)
+1. Clone the repository.
+2. Create virtualenv and install `requirements.txt`.
+3. Run `python src/main.py` to start a simple CLI.
 
-## 📂 Project Structure
+---
 
-| Folder               | Purpose                                                  |
-|----------------------|----------------------------------------------------------|
-| `website/`           | NiruX teaser/landing site (hosted via GitHub Pages)     |
-| `ai-agents/`         | Configs for intelligent agents (names, specialties)     |
-| `wireframes/`        | Figma exports, app mockups, UI sketches                 |
-| `business-solutions/`| Real-world problem + solution sets                      |
-| `collaborations/`    | Pricing, plans, contact to access full NiruX features   |
-| `assets/`            | Visuals, screenshots, logo etc.                         |
+## 🛠 Tech Stack
+- **Language:** Python
+- **AI Models:** OpenAI / Custom Models
+- **Database:** Vector DB for RAG
+- **Frameworks:** FastAPI, LangChain
 
-## 🧪 Features
-
-- 🤖 Custom AI agents for design, dev, and business
-- 💼 Real-world use cases for startups
-- 💸 Paid collaboration model
-- 🌐 GitHub Pages site included
+---
 
 ## 🌐 Live Site
 
@@ -40,3 +36,6 @@ NiruX brings together intelligent AI agents who:
 ## ✨ Built By
 
 Made with heart by [@Devasena-K09](https://github.com/Devasena-K09) 💜
+
+## 📌 License
+This project is proprietary. All rights reserved © 2025 NiruX.
