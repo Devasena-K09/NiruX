@@ -1,5 +1,5 @@
 # NiruX  
-** AI for You **
+**AI for You**
 
 NiruX is an AI project designed to protect humanity, promote dharma, and assist users with spiritual, moral, and intellectual guidance. It combines advanced AI agents, real-time decision-making, and knowledge retrieval systems to provide accurate and ethical responses.
 
