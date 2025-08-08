@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai
+langchain
+numpy
+pydantic
+# add more packages later as needed
